@@ -1,11 +1,11 @@
 #include"Sort.h"
 
-void D_inSort(int *r,int n)
+void main()
 {
 	int i,j;
 	int tem;
-
-	for (i=1;i<=n;i++)
+	r[i] = Random_Numble;
+	for (i=1;i<=MaxSize;i++)
 	{
 		tem = r[i];
 		j=i-1;
